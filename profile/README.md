@@ -2,52 +2,27 @@
 
 ## Introduction
 
-Welcome to Exopy! This project was developed by Team Exopy during a 48-hour hackathon held at Phoenix College. The event challenged participants to innovate and create solutions under time constraints, and we are proud to present Exopy as our final project.
+This is the organization of our team **Exopy**. Our team regularly participates in different hackathons, and this repository contains one of our recent projects. Please feel free to check out the repo!
 
 ## Team Members
 
-Our team, Exopy, consists of passionate and skilled individuals who collaborated to bring this project to life:
+## Developers
 
-- **[Member 1 Name]** - [Role/Responsibility]
-- **[Member 2 Name]** - [Role/Responsibility]
-- **[Member 3 Name]** - [Role/Responsibility]
-- **[Member 4 Name]** - [Role/Responsibility]
-- **[Member 5 Name]** - [Role/Responsibility]
-
-Each team member played a crucial role in the development process, contributing their unique expertise and creativity.
-
-## Project Overview
-
-Exopy is [briefly describe the project, its purpose, and what it aims to solve or achieve]. Our project was conceptualized, designed, and implemented within the 48-hour window of the hackathon. Despite the time constraints, we focused on delivering a functional and innovative solution.
+- [**Jyotsan Hamal**](https://github.com/jyotsanh) -  AI Engineer  
+- [**Nikesh Shrestha**](https://github.com/Nik-doid) - Backend API Developer  
+- [**Richma Gurung**](https://github.com/Mochigurung) - Frontend Engineer  
+- [**Mandeep Chaudhary**](https://github.com/Mandip69) - Frontend Engineer  
 
 ## Technologies Used
 
-- **[Technology 1]**
-- **[Technology 2]**
-- **[Technology 3]**
-- **[Technology 4]**
-
-## How to Run the Project
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [repository link]
-   ```
-2. Navigate to the project directory:
-   ```bash
-   git clone [repository link]
-   ```
-3. Install the necessary dependencies:
-   ```bash
-   git clone [repository link]
-   ```
-
-4. Run the project:
-   ```bash
-   git clone [repository link]
-   ```
-## Project Features
-- [Feature 1] - [Brief description]
-- [Feature 2] - [Brief description]
-- [Feature 3] - [Brief description]
-   
+- **React** – Frontend framework  
+- **Next.js** – Full-stack React framework  
+- **Django** – Backend web framework  
+- **FastAPI** – High-performance API backend  
+- **Express** – Lightweight Node.js backend framework  
+- **Pinecone** – Vector database for semantic search  
+- **Milvus** – Scalable vector database  
+- **LangChain** – Framework for building LLM-powered apps  
+- **LangGraph** – Multi-agent LLM orchestration  
+- **Asyncio** – Python async concurrency  
+- **WebSocket** – Real-time communication layer  
