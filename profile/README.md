@@ -26,4 +26,5 @@ This is the organization of our team **Exopy**. Our team regularly participates 
 - **LangChain** – Framework for building LLM-powered apps  
 - **LangGraph** – Multi-agent LLM orchestration  
 - **Asyncio** – Python async concurrency  
-- **WebSocket** – Real-time communication layer  
+- **WebSocket** – Real-time communication layer
+- **CodeIgniter** - CodeIgniter is a powerful PHP framework with a very small footprint,
