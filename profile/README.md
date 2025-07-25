@@ -1,4 +1,4 @@
-# Exopy - Hackathon Project
+# Exopy - collaborative team of developers
 
 ## Introduction
 
