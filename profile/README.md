@@ -10,9 +10,10 @@ This is the organization of our team **Exopy**. Our team regularly participates 
 
 - [**Jyotsan Hamal**](https://github.com/jyotsanh) -  AI Engineer  
 - [**Nikesh Shrestha**](https://github.com/Nik-doid) - Backend API Developer  
-- [**Richma Gurung**](https://github.com/Mochigurung) - Frontend Engineer  
+- [**Richma Gurung**](https://github.com/Mochigurung) - Frontend/ML Engineer  
 - [**Mandeep Chaudhary**](https://github.com/Mandip69) - Frontend Engineer
 - [**Lav Shah**](https://github.com/lavshah19) - Full Stack Developer
+- [**Dibas Pratap Basnet**](https://github.com/dibas1234567890) - AI Engineer
 
 ## Technologies Used
 
