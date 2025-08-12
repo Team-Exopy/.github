@@ -10,7 +10,7 @@ This is the organization of our team **Exopy**. Our team regularly participates 
 - [**Dibas Pratap Basnet**](https://github.com/dibas1234567890) - AI Engineer at Palm Mind
 - [**Jyotsan Hamal**](https://github.com/jyotsanh) -  AI Engineer at Palm Mind
 - [**Shrenav DHakal**](https://github.com/Shrenav-Dhakal) - AI Engineer at Javra
-- [**Nikesh Shrestha**](https://github.com/Nik-doid) - Backend API Developer  atr Classic Tech
+- [**Nikesh Shrestha**](https://github.com/Nik-doid) - Backend Developer at Classic Tech
 - [**Richma Gurung**](https://github.com/Mochigurung) - Frontend/ML Engineer  
 - [**Mandeep Chaudhary**](https://github.com/Mandip69) - Frontend Engineer
 - [**Lav Shah**](https://github.com/lavshah19) - Full Stack Developer
